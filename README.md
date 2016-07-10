@@ -1,4 +1,4 @@
-# Bootstrap1
+# Bootstrap Image Gallery
 
 Responsive Image Gallery Using Bootstrap
 
